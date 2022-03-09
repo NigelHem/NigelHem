@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NigelHem
 - 👀 I’m interested in ...learning about home security devices and remote reporting of alarms
-- 🌱 I’m currently learning as a newbie to coding for an arduino and hoping to find projects that offer the facility to use IFTT 
+- 🌱 I’m currently learning as a newbie the coding for an arduino and hoping to find projects that offer the facility to use IFTT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
